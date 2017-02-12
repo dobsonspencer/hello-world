@@ -12,6 +12,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             MessageBox.Show("Spencer is a god");
+            MessageBox.Show("...but I'm still learning git");
         }
     }
 }
